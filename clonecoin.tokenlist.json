@@ -1,0 +1,23 @@
+{
+  "name": "CloneCoin Token List",
+  "logoURI": "https://github.com/CloneCoin-creator/CloneCoin-tokenlist/blob/main/CLONE.png?raw=true",
+  "keywords": ["clone", "meme", "republic", "aptm"],
+  "tags": {
+    "meme": {
+      "name": "Meme",
+      "description": "Meme Token auf der Apertum-Chain"
+    }
+  },
+  "timestamp": "2025-05-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 72786,
+      "address": "0xad09e8b388BD231Ccc...", 
+      "name": "CloneCoin",
+      "symbol": "CLONE",
+      "decimals": 18,
+      "logoURI": "https://github.com/CloneCoin-creator/CloneCoin-tokenlist/blob/main/CLONE.png?raw=true",
+      "tags": ["meme"]
+    }
+  ]
+}
