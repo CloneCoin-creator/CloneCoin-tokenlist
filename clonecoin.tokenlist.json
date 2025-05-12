@@ -5,19 +5,24 @@
   "tags": {
     "meme": {
       "name": "Meme",
-      "description": "Meme Token auf der Apertum-Chain"
+      "description": "Meme Token on the Apertum Chain"
     }
   },
   "timestamp": "2025-05-12T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 72786,
-      "address": "0xad09e8b388BD231Ccc...", 
+      "chainId": 2786,
+      "address": "0xad09e8b388BD231CccB9c43196BB0Dd494aaD794",
       "name": "CloneCoin",
       "symbol": "CLONE",
       "decimals": 18,
       "logoURI": "https://github.com/CloneCoin-creator/CloneCoin-tokenlist/blob/main/CLONE.png?raw=true",
       "tags": ["meme"]
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
